@@ -1,0 +1,2 @@
+https://www.vpngate.net - for .ovpn files
+https://premproxy.com - for proxy connections
